@@ -1,0 +1,6 @@
+<Alloy>
+	<NavigationWindow platform="ios" id='navWindow'>
+		<Require src="_index" id="_index" ></Require>
+	</NavigationWindow>
+	<Require src="_index" id="_index" platform="android"></Require>
+</Alloy>
